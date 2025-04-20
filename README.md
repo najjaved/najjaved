@@ -22,10 +22,24 @@ Here are some ideas to get you started:
 ---
 
 ### 👩‍💻 About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 **I’m currently working on** implementing a full DevOps lifecycle for a restaurant management application to reinforce core DevOps concepts and gain hands-on experience with modern deployment workflows, including CI/CD, containerization, and infrastructure and application monitoring.
 
+- 🌱 **I’m currently learning about** 
+  - Cloud infrastructure and services on AWS and Azure
+  - Microservice architectures and distributed systems
+  - Infrastructure as Code (IaC) using Terraform
+  - Configuration management using Ansible
+  - Application containerization with Docker and orchestration via Kubernetes
+  - CI/CD automation using GitHub Actions and Jenkins
+  - Software quality assurance through SonarQube, automated testing, and code analysis
+  - Metrics scraping for monitoring infrastructure and application metrics, visualization on Grafana, and logging using Loki
+  - Agile workflows using Scrum and Kanban methodologies
+
+- 👯 **I’m looking to collaborate on** ...
+  - Projects involving DevOps automation and scalable cloud-native applications
+  - Model-based development for HiL test environments or HiL test automation with CI/CD pipelines and enhanced observability
+  - Cross-functional projects combining backend/API development and infrastructure engineering
+  - Activities focused on improving testing frameworks, deployment reliability, and system monitoring
 
 ---
 
@@ -74,22 +88,25 @@ Here are some ideas to get you started:
 ---
 
 ### 📂 Highlighted Projects
+1. **Embedded Simulations & HiL Automation** 
+Implemented a comprehensive DevOps implementation for an expense tracker application featuring a Next.js frontend and a Node.js backend, utilizing MongoDB and Redis. Key topics include:
+- Autmation of infrastructure implementation using Infrastructure As Code (iAC)
+- Containerization of microservices.
+- Automated deployment to a Kubernetes cluster via CI/CD pipelines, leveraging GitHub Actions.
+- Monitoring application and infrastructure metrics using Prometheus, with visualization via a Grafana dashboard.
+- Establishment of alerting mechanisms for critical metrics.
+- Logging with Loki with a visualization of Log metrics in Grafana.
 
-- **3-tier App on Kubernetes**  
-  Full-stack app deployed on Amazon EKS using Terraform, Helm & Ingress.  
+2. **3-tier App on Amazon EKS**
+  Full-stack app deployed on Amazon EKS Cluster using Terraform, Helm Charts & external aceess via Ingress.  
   _Frontend + Backend + PostgreSQL (with EBS volume support)_
 
-- **DevOps Labs** *(Coming soon)*  
-  Hands-on labs for CI/CD, IaC, and container orchestration using real-world tools.
-
-- **Embedded Simulations & HiL Automation**  
-  Custom scripts and test benches for automotive/aviation use cases.
 
 ---
 
-### 🌐 Let’s Connect
-
-[LinkedIn](https://www.linkedin.com/in/najaved) | [Website](https://ethicalorigins.de)
+### 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najaved)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ethicalorigins.eu/)
 
 ---
 

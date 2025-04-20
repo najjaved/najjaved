@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 ---
 
 ### 📂 Highlighted Projects
-1. **Embedded Simulations & HiL Automation** 
+1. **DevOps Implementation for Expensy Mircorservices App** 
 Implemented a comprehensive DevOps implementation for an expense tracker application featuring a Next.js frontend and a Node.js backend, utilizing MongoDB and Redis. Key topics include:
 - Autmation of infrastructure implementation using Infrastructure As Code (iAC)
 - Containerization of microservices.

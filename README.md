@@ -92,15 +92,16 @@ Here are some ideas to get you started:
 Implemented a comprehensive DevOps implementation for an expense tracker application featuring a Next.js frontend and a Node.js backend, utilizing MongoDB and Redis. Key topics include:
 - Autmation of infrastructure implementation using Infrastructure As Code (iAC)
 - Containerization of microservices.
-- Automated deployment to a Kubernetes cluster via CI/CD pipelines, leveraging GitHub Actions.
+- Automated deployment to a Azure Kubernetes cluster via CI/CD pipelines, leveraging GitHub Actions.
 - Monitoring application and infrastructure metrics using Prometheus, with visualization via a Grafana dashboard.
 - Establishment of alerting mechanisms for critical metrics.
 - Logging with Loki with a visualization of Log metrics in Grafana.
 
-2. **3-tier App on Amazon EKS**
-  Full-stack app deployed on Amazon EKS Cluster using Terraform, Helm Charts & external aceess via Ingress.  
-  _Frontend + Backend + PostgreSQL (with EBS volume support)_
+2. **CI/CD for a multi-stack Voting Application with Amazon EKS**
+This project focuses on deploying a multi-stack voting application, composed of Python, Node.js, .NET, Redis, and PostgreSQL microservices, onto an Amazon EKS cluster. The process involves containerizing each microservice, deploying them to EKS using Kubernetes manifests while securely managing secrets, and setting up an NGINX Ingress controller via Helm for external traffic routing. The project establishes a CI/CD pipeline using GitHub Actions to automate the building and pushing of Docker images, along with the continuous deployment of these updates to the EKS environment. The final outcome is a fully functional and automatically updated voting application running on a scalable and orchestrated Kubernetes platform on AWS.
 
+3. **Vintage Reborn Web Application**
+Vintage Reborn is a full-stack web application built with the MERN stack (MongoDB, Express.js, React, Node.js), inspired by 'eBay Kleinanzeigen' of Germany and featuring a REST API for backend communication. Key features include user authentication (signup, login, logout), the ability to add, browse, and search product listings, and cart management. The application supports user and admin roles, with functionalities for managing products and user profiles. The frontend, built with React and Mantine UI, interacts with the Express.js and MongoDB backend through defined API endpoints.
 
 ---
 

@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---
 
 ### 👩‍💻 About Me
-- 🔭 **I’m currently working on** implementing a full DevOps lifecycle for a restaurant management application to reinforce core DevOps concepts and gain hands-on experience with modern deployment workflows, including CI/CD, containerization, and infrastructure and application monitoring.
+- 🔭 **I’m currently working on** implementing a full DevOps lifecycle for a restaurant management application to reinforce core DevOps concepts and gain further experience with modern deployment workflows, including CI/CD with Amazon AWS Cloud platform, containerization, and infrastructure and application monitoring.
 
 - 🌱 **I’m currently learning about** 
   - Cloud infrastructure and services on AWS and Azure
@@ -90,10 +90,10 @@ Here are some ideas to get you started:
 ### 📂 Highlighted Projects
 1. **DevOps Implementation for Expensy Mircorservices App** 
 Implemented a comprehensive DevOps implementation for an expense tracker application featuring a Next.js frontend and a Node.js backend, utilizing MongoDB and Redis. Key topics include:
-- Autmation of infrastructure implementation using Infrastructure As Code (iAC)
+- Automation of infrastructure implementation using Infrastructure As Code (IaC)
 - Containerization of microservices.
-- Automated deployment to a Azure Kubernetes cluster via CI/CD pipelines, leveraging GitHub Actions.
-- Monitoring application and infrastructure metrics using Prometheus, with visualization via a Grafana dashboard.
+- Automated deployment to Azure Kubernetes cluster via CI/CD pipelines, leveraging GitHub Actions.
+- Monitoring application and infrastructure metrics using Prometheus, with visualization via Grafana dashboards.
 - Establishment of alerting mechanisms for critical metrics.
 - Logging with Loki with a visualization of Log metrics in Grafana.
 

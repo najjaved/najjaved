@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 ### 📂 Highlighted Projects
 1. **DevOps Implementation for Expensy Mircorservices App** 
-Implemented a comprehensive [DevOps implementation](https://github.com/najjaved/devOps-expense-tracker-app) for an expense tracker application featuring a Next.js frontend and a Node.js backend, utilizing MongoDB and Redis. Key topics include:
+Implemented a comprehensive [DevOps cycle](https://github.com/najjaved/devOps-expense-tracker-app) for an expense tracker application featuring a Next.js frontend and a Node.js backend, utilizing MongoDB and Redis. Key topics include:
 - Automation of infrastructure implementation using Infrastructure As Code (IaC)
 - Containerization of microservices.
 - Automated deployment to Azure Kubernetes cluster via CI/CD pipelines, leveraging GitHub Actions.

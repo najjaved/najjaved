@@ -106,6 +106,7 @@ Implemented a comprehensive [DevOps cycle](https://github.com/najjaved/devOps-ex
 ---
 
 ### 🤝 Let's Connect
+I’m always open to connecting with like-minded professionals who value innovation, quality, and continuous learning.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najaved)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ethicalorigins.eu/)
 

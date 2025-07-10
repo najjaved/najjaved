@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;" />
 </h1>
 
-<h3 align="center"> I'm Najma, an experienced HiL engineer, aspiring entrepreneur, and DevOps enthusiast with a growing interest in web technologies and generative AI.</h3>
+<h3 align="center"> I'm Najma, an experienced HiL engineer and DevOps enthusiast with a growing interest in web technologies and generative AI.</h3>
 
 <!--
 **najjaved/najjaved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

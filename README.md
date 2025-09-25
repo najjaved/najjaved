@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-
+<!--
 ### 👩‍💻 About Me
 - 🔭 **I’m currently working on** implementing a full DevOps lifecycle for a restaurant management application to reinforce core DevOps concepts and gain further experience with modern deployment workflows, including CI/CD with Amazon AWS Cloud platform, containerization, and infrastructure and application monitoring.
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   - Software quality assurance through SonarQube, automated testing, and code analysis
   - Metrics scraping for monitoring infrastructure and application metrics, visualization on Grafana, and logging using Loki
   - Agile workflows using Scrum and Kanban methodologies
-
+-->
 - 👯 **I’m looking to collaborate on** ...
   - Projects involving DevOps automation and scalable cloud-native applications
   - Model-based development for HiL test environments or HiL test automation with CI/CD pipelines and enhanced observability

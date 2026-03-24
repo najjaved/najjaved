@@ -59,12 +59,21 @@ I am passionate about continuous learning & knowledge sharing. Having transition
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-  
+
+#### 🤖 AI & Automation
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-blueviolet?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-02303A?style=for-the-badge&logo=cursor&logoColor=white)
+
 #### 🚀 Simulation & HiL Testing
 ![MATLAB/Simulink](https://img.shields.io/badge/MATLAB/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Speedgoat](https://img.shields.io/badge/Speedgoat-003F7E?style=for-the-badge&logo=speed&logoColor=white)
 ![dSPACE](https://img.shields.io/badge/-dSPACE-0083CC?style=for-the-badge&logo=dspace&logoColor=white)
 ![ECU_Testing](https://img.shields.io/badge/ECU_Testing-005F8C?style=for-the-badge&logo=test-tube&logoColor=white)
+![Vector](https://img.shields.io/badge/Vector-CANoe/CANape-ED1C24?style=for-the-badge)
+![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-ED1C24?style=for-the-badge&logo=istqb&logoColor=white)
 
 #### 🌩️🔧 Cloud & DevOps
 ![Amazon AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)

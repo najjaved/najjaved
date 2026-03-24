@@ -36,15 +36,25 @@ Here are some ideas to get you started:
   - Metrics scraping for monitoring infrastructure and application metrics, visualization on Grafana, and logging using Loki
   - Agile workflows using Scrum and Kanban methodologies
 -->
-👯 **I’m looking to collaborate on** ...
+👯 I’m looking to collaborate on...
   - Projects involving DevOps automation and scalable cloud-native applications
   - Model-based development for HiL test environments or HiL test automation with CI/CD pipelines and enhanced observability
   - Cross-functional projects combining backend/API development and infrastructure engineering
   - AI-powered automation for real-world productivity
   - Technical mentoring and knowledge sharing
 
+- **DevOps & Cloud** — Projects involving DevOps automation and scalable cloud-native applications
+- **Testing & Automation** — Model-based development for HiL test environments, software testing, 
+  and test pipelines that integrate DevOps practices
+- **AI Automation** *(Freelance)* — agentic workflows, RAG pipelines, and LLM-powered productivity tools
 
 ---
+🎓 Teaching & Mentoring
+I am passionate about continuous learning & knowledge sharing. Having transitioned into cloud-native tech myself through intensive bootcamps, I provide first-hand insight into the student journey. My teaching focuses on:
+•	Simplifying complex technical concepts
+•	Facilitating hands-on labs for production-ready projects
+•	Mentoring learners transitioning into tech careers
+
 
 ### 🧰 Tech Stack & Tools
 

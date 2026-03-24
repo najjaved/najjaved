@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 -->
 #### 👯 I’m looking to collaborate on...
 
-- **DevOps & Cloud** — Projects involving DevOps automation and scalable cloud-native applications
-- **Testing & Automation** — Model-based development for HiL test environments, software testing, 
+- Projects involving DevOps automation and scalable cloud-native applications
+- Model-based development for HiL test environments, software testing, 
   and test pipelines that integrate DevOps practices
-- **AI Automation** *(freelance)* — agentic workflows, RAG pipelines, and LLM-powered productivity tools
+- Agentic workflows, RAG pipelines, and LLM-powered productivity tools
 
 
 #### 🎓 Technical Training & Mentoring

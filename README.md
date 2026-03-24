@@ -36,21 +36,21 @@ Here are some ideas to get you started:
   - Metrics scraping for monitoring infrastructure and application metrics, visualization on Grafana, and logging using Loki
   - Agile workflows using Scrum and Kanban methodologies
 -->
-### 👯 I’m looking to collaborate on...
+#### 👯 I’m looking to collaborate on...
 
 - **DevOps & Cloud** — Projects involving DevOps automation and scalable cloud-native applications
 - **Testing & Automation** — Model-based development for HiL test environments, software testing, 
   and test pipelines that integrate DevOps practices
 - **AI Automation** *(Freelance)* — agentic workflows, RAG pipelines, and LLM-powered productivity tools
 
----
-### 🎓 Technical Training & Mentoring
+
+#### 🎓 Technical Training & Mentoring
 I am passionate about continuous learning & knowledge sharing. Having transitioned into cloud-native tech myself through intensive bootcamps, I provide first-hand insight into the student journey. My teaching focuses on:
 •	Simplifying complex technical concepts
 •	Facilitating hands-on labs for production-ready projects
 •	Mentoring learners transitioning into tech careers
 
-
+---
 ### 🧰 Tech Stack & Tools
 
 #### 💻 Languages & Scripting 

@@ -41,14 +41,14 @@ Here are some ideas to get you started:
 - **DevOps & Cloud** — Projects involving DevOps automation and scalable cloud-native applications
 - **Testing & Automation** — Model-based development for HiL test environments, software testing, 
   and test pipelines that integrate DevOps practices
-- **AI Automation** *(Freelance)* — agentic workflows, RAG pipelines, and LLM-powered productivity tools
+- **AI Automation** *(freelance)* — agentic workflows, RAG pipelines, and LLM-powered productivity tools
 
 
 #### 🎓 Technical Training & Mentoring
 I am passionate about continuous learning & knowledge sharing. Having transitioned into cloud-native tech myself through intensive bootcamps, I provide first-hand insight into the student journey. My teaching focuses on:
-•	Simplifying complex technical concepts
-•	Facilitating hands-on labs for production-ready projects
-•	Mentoring learners transitioning into tech careers
+- Simplifying complex technical concepts
+- Facilitating hands-on labs for production-ready projects
+- Mentoring learners transitioning into tech careers
 
 ---
 ### 🧰 Tech Stack & Tools

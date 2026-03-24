@@ -72,7 +72,7 @@ I am passionate about continuous learning & knowledge sharing. Having transition
 ![Speedgoat](https://img.shields.io/badge/Speedgoat-003F7E?style=for-the-badge&logo=speed&logoColor=white)
 ![dSPACE](https://img.shields.io/badge/-dSPACE-0083CC?style=for-the-badge&logo=dspace&logoColor=white)
 ![ECU_Testing](https://img.shields.io/badge/ECU_Testing-005F8C?style=for-the-badge&logo=test-tube&logoColor=white)
-![Vector](https://img.shields.io/badge/Vector-CANoe/CANape-ED1C24?style=for-the-badge)
+![Vector Tools](https://img.shields.io/badge/Vector_Tools-ED1C24?style=for-the-badge)
 ![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-ED1C24?style=for-the-badge&logo=istqb&logoColor=white)
 
 #### 🌩️🔧 Cloud & DevOps

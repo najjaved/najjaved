@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   and test pipelines that integrate DevOps practices
 - Agentic workflows, RAG pipelines, and LLM-powered productivity tools
 
-
+<br>
 #### 🎓 Technical Training & Mentoring
 I am passionate about continuous learning & knowledge sharing. Having transitioned into cloud-native tech myself through intensive bootcamps, I provide first-hand insight into the student journey. My teaching focuses on:
 - Simplifying complex technical concepts

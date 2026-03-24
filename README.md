@@ -2,7 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;" />
 </h1>
 
-<h3 align="center"> I'm Najma, an experienced HiL engineer and DevOps enthusiast with a growing interest in web technologies and generative AI.</h3>
+<h3 align="center"> I'm Najma, a multidisciplinary engineer with 6+ years of experience across software testing, 
+DevOps & cloud infrastructure, Web development, and applied AI .</h3>
 
 <!--
 **najjaved/najjaved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +40,9 @@ Here are some ideas to get you started:
   - Projects involving DevOps automation and scalable cloud-native applications
   - Model-based development for HiL test environments or HiL test automation with CI/CD pipelines and enhanced observability
   - Cross-functional projects combining backend/API development and infrastructure engineering
-  - Activities focused on improving testing frameworks, deployment reliability, and system monitoring
+  - AI-powered automation for real-world productivity
+  - Technical mentoring and knowledge sharing
+
 
 ---
 
